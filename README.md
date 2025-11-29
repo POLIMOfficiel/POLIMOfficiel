@@ -1,7 +1,9 @@
 <h1 align="center">👋 Yo, moi c'est <strong>Polimo</strong></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=550&lines=D%C3%A9veloppeur+Linux;Backend+%7C+FastAPI+%7C+Python;Cr%C3%A9ateur+d'UnisCube;Toujours+en+train+de+build+%F0%9F%94%A5" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&repeat=true&width=650&lines=D%C3%A9veloppeur+Linux;Backend+%7C+FastAPI+%7C+Python;Cr%C3%A9ateur+d'UnisCube;Toujours+en+train+de+build+%F0%9F%94%A5" />
+</p>
 
 </p>
 
