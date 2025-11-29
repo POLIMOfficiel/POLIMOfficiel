@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=550&lines=Développeur+Linux;Backend+%7C+FastAPI+%7C+Python;Créateur+d'UnisCube;Toujours+en+train+de+build+🔥" />
+
 </p>
 
 ---
