@@ -29,10 +29,10 @@
 
 ---
 
-## 📊 Stats (100% compatibles)
+## 📊 Stats
 
 ### 🧩 GitHub Profile Summary Cards  
-*(fonctionnent toujours car c’est GitHub qui les génère)*
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polimo&theme=tokyonight" />
