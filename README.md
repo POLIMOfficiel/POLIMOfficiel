@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&repeat=true&width=650&lines=D%C3%A9veloppeur+Linux;Backend+%7C+FastAPI+%7C+Python;Co-fondateur+d'UnisCube;Toujours+en+train+de+build+%F0%9F%94%A5" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&repeat=true&width=650&lines=D%C3%A9veloppeur+Linux;Backend+%7C+FastAPI+%7C+Python" alt="typing" />
 </p>
 
 # 👋 Salut — moi c'est **Polimo**
@@ -9,7 +9,6 @@
 ## 🚀 À propos de moi
 - 🐧 J'utilise **Ubuntu (dernière version)**  
 - 🧠 Dev backend — **Python & FastAPI**  
-- 🧩 Co-fondateur et développeur de **UnisCube**  
 - 🛠️ Administration & déploiement via **Pterodactyl**  
 - ⚡ Passionné par la performance, l’automatisation et l’optimisation
 
@@ -39,8 +38,7 @@
 ---
 
 ## 🔗 Me contacter
-- Discord : **polimo**  
-- Site : https://uniscube.fr
+- Discord : **polimo**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20🔥%20by-Polimo-blue?style=for-the-badge" alt="Made with love" />
